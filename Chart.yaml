@@ -1,9 +1,9 @@
 name: tensorflow
-home: https://github.com/lsheiba/tensorflow-chart.git
+home: https://github.com/lsheiba/tfj-v1.git
 version: 1.0.2
 description: Tensorflow Jupiter workspace
 sources:
-  - https://github.com/lsheiba/tensorflow-chart.git
+  - https://github.com/lsheiba/tfj-v1.git
 maintainers:
   - name: Leonard Sheiba
 keywords:
