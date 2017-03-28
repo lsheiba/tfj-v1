@@ -7,7 +7,7 @@ memory:
   limits: "2048Mi"
 serviceType: LoadBalancer
 image:
-  Name: lsheiba/tensorflow-junyper
+  Name: lsheiba/tensorflow-jupyter
   Tag: 
 persistence:
     enabled: true
