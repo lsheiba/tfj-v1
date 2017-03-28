@@ -8,7 +8,7 @@ memory:
 serviceType: LoadBalancer
 image:
   Name: lsheiba/tensorflow-jupyter
-  Tag: 
+  Tag: latest
 persistence:
     enabled: true
     accessMode: ReadWriteOnce
